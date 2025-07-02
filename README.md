@@ -14,7 +14,9 @@
 ---
 
 ## 🕒 Current Time in Pakistan
-![Time in PKT](https://time.raffy.li/Asia/Karachi.svg)
+
+![Time in PKT](https://raw.githubusercontent.com/daud-nisar/daily-date-time/main/.github/assets/pkt-time.svg)
+
 
 ---
 
