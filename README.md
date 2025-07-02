@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Daud Nisar
 
-<!--
-**Daud-Nisar/Daud-Nisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Python Developer | Web Scraping | QA Automation | Daily GitHub Committer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 🐍 Python Programming
+- 🌐 Web Scraping (BeautifulSoup, Aiohttp, Selenium)
+- ✅ QA Automation (Selenium, PyTest)
+- 🔁 Git & GitHub Workflow
+- 💾 MySQL & Data Handling
+
+---
+
+## 🕒 Current Time in Pakistan
+![Time in PKT](https://time.raffy.li/Asia/Karachi.svg)
+
+---
+
+## 🌍 Connect with Me
+
+- 💼 **Upwork:** [Daud Nisar on Upwork](https://www.upwork.com/freelancers/~YOUR-ID-HERE)
+- 🔗 **LinkedIn:** [Daud Nisar](https://www.linkedin.com/in/daud-nisar-aa88a9222/)
+- 📧 **Email:** daudnisar2@gmail.com
+
+---
+
+## 📌 Projects in Progress
+
+- `daily-date-time` → Print time & greeting
+- `web-scraper-news` → Scrapes headlines from top sites
+- `qa-website-checker` → Test automation with Selenium
+- More coming... 🔥
