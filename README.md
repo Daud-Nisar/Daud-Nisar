@@ -15,7 +15,8 @@
 
 ## Current time — Pakistan (PKT)
 
-![Current time in Pakistan (PKT)](https://raw.githubusercontent.com/daud-nisar/daily-date-time/main/.github/assets/pkt-time.svg)
+![Current Time in Pakistan (PKT)](https://raw.githubusercontent.com/Daud-Nisar/daily-date-time/main/.github/assets/pkt-time.svg)
+
 
 
 
