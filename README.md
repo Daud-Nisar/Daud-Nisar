@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daud Nisar
 
-🎯 **Python Developer | Web Scraping | QA Automation | Daily GitHub Committer**
+🎯 **Python Developer | Web Scraping | QA Automation | GitHub Committer**
 
 ---
 
