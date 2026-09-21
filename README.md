@@ -16,12 +16,12 @@
 
 ---
 
-## 🕒 Current Time — Pakistan 🇵🇰
+## 🕒 Current Time — Pakistan (PKT)
 
 <p align="center">
-
-<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan"/>
-
+  <a href="https://daud-nisar.github.io/daily-date-time/clock/clock.html" target="_blank">
+    🇵🇰 <b>Open Live Pakistan Time Clock</b> ⏱️
+  </a>
 </p>
 
 
