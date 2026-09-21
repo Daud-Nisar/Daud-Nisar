@@ -26,7 +26,6 @@
 <p align="center">
   <sub>⏱️ Click the clock to view the live time with seconds.</sub>
 </p>
-```
 
 
 
