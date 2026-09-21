@@ -1,91 +1,190 @@
-# 👋 Hi, I'm Daud Nisar
+<!-- ===================== HEADER ===================== -->
 
-### 💻 Software Engineer | Python Developer | QA Automation | Web Scraping
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Daud%20Nisar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20QA%20Automation%20%7C%20Web%20Scraping&descAlignY=60&descSize=18" width="100%"/>
+</p>
 
-I’m a Computer Science graduate focused on building **Python applications, web scraping solutions, test automation, and practical software tools**. I enjoy solving real-world problems through clean, reliable, and maintainable code.
+<!-- ===================== TYPING ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Developer;QA+Automation+Engineer;Web+Scraping+%26+Automation;Building+Practical+Software;Computer+Science+Graduate" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Daud-Nisar">
+    <img src="https://komarev.com/ghpvc/?username=Daud-Nisar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science graduate and Software Engineer** focused on building practical software solutions with Python.
+
+My main areas of interest include:
+
+* 🐍 Python development
+* 🌐 Web scraping & data automation
+* 🧪 QA automation & software testing
+* ⚙️ Browser and workflow automation
+* 🗄️ Database-driven applications
+* 🚀 Custom business management software
+
+I enjoy turning real-world problems into **simple, reliable, and maintainable software**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming**
+<p align="center">
 
-* 🐍 Python
+<img src="https://skillicons.dev/icons?i=python,selenium,mysql,sqlite,git,github,vscode,html,css,fastapi&perline=10" />
 
-**Web Scraping & Automation**
+</p>
 
-* 🌐 Selenium
-* ⚡ Aiohttp
-* 🍲 BeautifulSoup
-* 🔄 Browser & workflow automation
+### 🔧 Tools & Technologies
 
-**QA & Testing**
+<p align="center">
 
-* ✅ Selenium WebDriver
-* 🧪 PyTest
-* 🔍 Functional & automated testing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
+![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5BB4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-**Database & Data**
+</p>
 
-* 🗄️ MySQL
-* 💾 SQLite
-* 📊 Data processing & handling
+---
 
-**Tools & Workflow**
+## 🚀 Featured Projects
 
-* 🔀 Git
-* 🐙 GitHub
-* 💻 VS Code
+### 🎱 ClubEngine
+
+**Custom Snooker Club Management Software**
+
+A desktop-style management system designed for snooker clubs to manage:
+
+* 🎱 Tables & sessions
+* 💰 Billing & payments
+* 👥 Players
+* 🍔 Canteen
+* 📊 Reports
+* 🔐 User roles & permissions
+* 💾 Backup & data management
+
+Built with a focus on **offline reliability, simple operations, and real-world club management**.
+
+---
+
+### 🌐 Web Scraping & Automation
+
+Python-based scraping and automation projects using:
+
+* Selenium
+* Aiohttp
+* BeautifulSoup
+* Async programming
+* Data processing
+* Excel/CSV exports
+
+---
+
+### 🧪 QA Website Checker
+
+Automated website testing using **Selenium + PyTest** to verify functionality and detect common issues.
+
+---
+
+### ⏰ Daily Date Time
+
+A Python project that displays:
+
+* 📅 Current date
+* 🕒 Current time
+* 👋 Time-based greeting
+* 🇵🇰 Pakistan Standard Time
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daud-Nisar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daud-Nisar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Daud-Nisar&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🕒 Current Time — Pakistan (PKT)
 
-![Current Time in Pakistan (PKT)](https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true)
+<p align="center">
+
+<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan" />
+
+</p>
 
 ---
 
-## 🚀 Projects
+## 🐍 Contribution Activity
 
-### ⏰ [Daily Date Time](https://github.com/Daud-Nisar/daily-date-time)
-
-A simple Python project that displays the current date, time, and greeting.
-
-### 📰 Web Scraper News
-
-A Python-based web scraping project for collecting and processing news headlines from websites.
-
-### 🧪 QA Website Checker
-
-An automated website testing project using Selenium to validate website functionality and identify common issues.
-
-### 🎱 ClubEngine
-
-A custom **snooker club management system** designed to simplify table management, sessions, billing, players, canteen operations, reports, and daily club administration.
-
-> More projects and automation tools are currently in development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daud-Nisar/Daud-Nisar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-## 📈 What I'm Working On
+## 📈 What I'm Currently Working On
 
-* 🐍 Python development
-* 🌐 Web scraping & data automation
-* 🧪 QA automation & testing
-* ⚙️ Business management software
-* 🔗 API & workflow automation
-* 📊 Data processing and database-driven applications
+```text
+🐍 Python Development
+🌐 Web Scraping & Automation
+🧪 QA Automation
+⚙️ Custom Business Software
+🔗 API & Workflow Automation
+📊 Database Applications
+```
 
 ---
 
 ## 🌍 Connect With Me
 
-* 💼 **Upwork:** [Daud Nisar](https://www.upwork.com/freelancers/~YOUR-ID-HERE)
-* 🔗 **LinkedIn:** [Daud Nisar](https://www.linkedin.com/in/daud-nisar-aa88a9222/)
-* 📧 **Email:** [daudnisar2@gmail.com](mailto:daudnisar2@gmail.com)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/daud-nisar-aa88a9222/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~YOUR-ID-HERE">
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="mailto:daudnisar2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <b>💡 Building software. Automating work. Solving real problems.</b>
+</p>
 
-If you're interested in **Python development, web scraping, QA automation, or custom business software**, feel free to connect with me.
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+</p>
