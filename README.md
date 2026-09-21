@@ -1,33 +1,33 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Daud%20Nisar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20QA%20Automation%20%7C%20Web%20Scraping&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,35:00C6FF,70:00F5A0,100:FFD700&height=230&section=header&text=Daud%20Nisar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20QA%20Automation%20%7C%20Web%20Scraping&descAlignY=61&descSize=18" width="100%"/>
 </p>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Developer;QA+Automation+Engineer;Web+Scraping+%26+Automation;Building+Practical+Software;Computer+Science+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=800&lines=Python+Developer+%F0%9F%90%8D;QA+Automation+Engineer+%F0%9F%A7%AA;Web+Scraping+%26+Automation+%F0%9F%8C%90;Building+Practical+Software+%F0%9F%9A%80;Computer+Science+Graduate+%F0%9F%8E%93" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Daud-Nisar">
-    <img src="https://komarev.com/ghpvc/?username=Daud-Nisar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Daud-Nisar&label=Profile%20Views&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
+# 💫 About Me
+
 ## 👨‍💻 About Me
 
-I'm a **Computer Science graduate and Software Engineer** focused on building practical software solutions with Python.
+I'm a **Computer Science graduate and Software Engineer** focused on building practical software solutions with **Python, automation, web scraping, and software testing**.
 
 My main areas of interest include:
 
 * 🐍 Python development
 * 🌐 Web scraping & data automation
 * 🧪 QA automation & software testing
-* ⚙️ Browser and workflow automation
+* ⚙️ Browser & workflow automation
 * 🗄️ Database-driven applications
 * 🚀 Custom business management software
 
@@ -35,12 +35,10 @@ I enjoy turning real-world problems into **simple, reliable, and maintainable so
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,selenium,mysql,sqlite,git,github,vscode,html,css,fastapi&perline=10" />
-
+  <img src="https://skillicons.dev/icons?i=python,selenium,mysql,sqlite,git,github,vscode,html,css,fastapi&perline=10" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -61,48 +59,57 @@ I enjoy turning real-world problems into **simple, reliable, and maintainable so
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎱 ClubEngine
+## 🎱 ClubEngine
 
-**Custom Snooker Club Management Software**
+### **Custom Snooker Club Management Software**
 
-A desktop-style management system designed for snooker clubs to manage:
+A desktop-style management system designed to simplify daily snooker club operations.
 
-* 🎱 Tables & sessions
-* 💰 Billing & payments
-* 👥 Players
-* 🍔 Canteen
-* 📊 Reports
+**✨ Key Areas:**
+
+* 🎱 Table & session management
+* 💰 Billing & payment management
+* 👥 Player management
+* 🍔 Canteen management
+* 📊 Reports & activity tracking
 * 🔐 User roles & permissions
 * 💾 Backup & data management
+* ⚙️ Club & system settings
 
-Built with a focus on **offline reliability, simple operations, and real-world club management**.
-
----
-
-### 🌐 Web Scraping & Automation
-
-Python-based scraping and automation projects using:
-
-* Selenium
-* Aiohttp
-* BeautifulSoup
-* Async programming
-* Data processing
-* Excel/CSV exports
+> **Built around real-world club requirements with a focus on simple operations, reliability, and efficient management.**
 
 ---
 
-### 🧪 QA Website Checker
+## 🌐 Web Scraping & Automation
 
-Automated website testing using **Selenium + PyTest** to verify functionality and detect common issues.
+Python-based projects focused on:
+
+* 🕷️ Web scraping
+* ⚡ Async data collection
+* 🤖 Browser automation
+* 📊 Data processing
+* 📁 Excel / CSV exports
+* 🔄 Workflow automation
 
 ---
 
-### ⏰ Daily Date Time
+## 🧪 QA Website Checker
 
-A Python project that displays:
+Automated website testing focused on:
+
+* 🔍 Functional testing
+* 🌐 Browser-based testing
+* 🧪 Automated test cases
+* 📋 Test validation
+* 🐞 Issue detection
+
+---
+
+## ⏰ Daily Date Time
+
+A Python project providing:
 
 * 📅 Current date
 * 🕒 Current time
@@ -111,28 +118,28 @@ A Python project that displays:
 
 ---
 
-## 📊 GitHub Statistics
-
-
-![](https://github-readme-stats.shion.dev/api?username=Daud-Nisar\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=Daud-Nisar\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Daud-Nisar\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
----
-
-## 🕒 Current Time — Pakistan (PKT)
+# 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Daud-Nisar&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Daud-Nisar&theme=radical&hide_border=false" height="180"/>
+</p>
 
-<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan" />
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Daud-Nisar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+# 🕒 Current Time — Pakistan 🇵🇰
+
+<p align="center">
+  <img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" width="700" alt="Current Time in Pakistan"/>
+</p>
+
+---
+
+# 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daud-Nisar/Daud-Nisar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
@@ -140,29 +147,37 @@ A Python project that displays:
 
 ---
 
-## 📈 What I'm Currently Working On
+# 📈 What I'm Currently Working On
 
-```text
-🐍 Python Development
-🌐 Web Scraping & Automation
-🧪 QA Automation
-⚙️ Custom Business Software
-🔗 API & Workflow Automation
-📊 Database Applications
-```
+<p align="center">
+
+🟣 **Python Development**
+🔵 **Web Scraping & Automation**
+🟢 **QA Automation**
+🟡 **Custom Business Software**
+🟠 **API & Workflow Automation**
+🔴 **Database Applications**
+
+</p>
 
 ---
 
-## 🌍 Connect With Me
+# 🎯 2026 Goals
+
+* 🚀 Build more production-ready software
+* 🧪 Improve QA automation expertise
+* 🌐 Develop advanced scraping solutions
+* ⚙️ Create practical business automation tools
+* 💼 Grow as a professional Software Engineer
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/daud-nisar-aa88a9222/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~YOUR-ID-HERE">
-  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
 <a href="mailto:daudnisar2@gmail.com">
@@ -174,6 +189,10 @@ A Python project that displays:
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Building+Software+%F0%9F%9A%80;Automating+Work+%E2%9A%A1;Solving+Real+Problems+%F0%9F%92%A1" alt="Footer Typing Animation"/>
+</p>
+
+<p align="center">
   <b>💡 Building software. Automating work. Solving real problems.</b>
 </p>
 
@@ -181,8 +200,8 @@ A Python project that displays:
   ⭐ Thanks for visiting my profile!
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ===================== ANIMATED FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,30:00F5A0,65:00C6FF,100:7F00FF&height=120&section=footer" width="100%"/>
 </p>
