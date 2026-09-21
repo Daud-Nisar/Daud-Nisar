@@ -122,16 +122,6 @@ A Python project that displays:
 
 ---
 
-## 🕒 Current Time — Pakistan (PKT)
-
-<p align="center">
-
-<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan" />
-
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -150,8 +140,17 @@ A Python project that displays:
 🔗 API & Workflow Automation
 📊 Database Applications
 ```
-
 ---
+
+## 🕒 Current Time — Pakistan (PKT)
+
+<p align="center">
+
+<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan" />
+
+</p>
+---
+
 
 ## 🌍 Connect With Me
 
