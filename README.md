@@ -16,7 +16,7 @@
 
 ---
 
-```html
+html
 ## 🕒 Current Time — Pakistan (PKT)
 
 <p align="center">
