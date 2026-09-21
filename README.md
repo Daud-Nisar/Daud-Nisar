@@ -113,14 +113,12 @@ A Python project that displays:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daud-Nisar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daud-Nisar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daud-Nisar&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Daud-Nisar\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Daud-Nisar\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Daud-Nisar\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
