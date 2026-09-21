@@ -16,6 +16,15 @@
 
 ---
 
+## 🕒 Current Time — Pakistan 🇵🇰
+
+<p align="center">
+
+<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan"/>
+
+</p>
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Computer Science graduate and Software Engineer** focused on building practical software solutions with Python.
@@ -134,15 +143,7 @@ A Python project providing:
 
 </p>
 
----
 
-## 🕒 Current Time — Pakistan 🇵🇰
-
-<p align="center">
-
-<img src="https://github.com/Daud-Nisar/daily-date-time/blob/main/.github/assets/pkt-time.svg?raw=true" alt="Current Time in Pakistan"/>
-
-</p>
 
 ---
 
