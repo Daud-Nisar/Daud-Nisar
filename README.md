@@ -111,6 +111,17 @@ A Python project that displays:
 
 ---
 
+
+## 📈 What I'm Currently Working On
+
+```text
+🐍 Python Development
+🌐 Web Scraping & Automation
+🧪 QA Automation
+⚙️ Custom Business Software
+🔗 API & Workflow Automation
+📊 Database Applications
+---
 ## 📊 GitHub Statistics
 
 
@@ -128,19 +139,9 @@ A Python project that displays:
   <img src="https://raw.githubusercontent.com/Daud-Nisar/Daud-Nisar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
----
 
-## 📈 What I'm Currently Working On
-
-```text
-🐍 Python Development
-🌐 Web Scraping & Automation
-🧪 QA Automation
-⚙️ Custom Business Software
-🔗 API & Workflow Automation
-📊 Database Applications
 ```
----
+
 
 ## 🕒 Current Time — Pakistan (PKT)
 
