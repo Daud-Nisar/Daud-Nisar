@@ -109,18 +109,7 @@ A Python project that displays:
 * 👋 Time-based greeting
 * 🇵🇰 Pakistan Standard Time
 
----
 
-
-## 📈 What I'm Currently Working On
-
-```text
-🐍 Python Development
-🌐 Web Scraping & Automation
-🧪 QA Automation
-⚙️ Custom Business Software
-🔗 API & Workflow Automation
-📊 Database Applications
 ---
 ## 📊 GitHub Statistics
 
