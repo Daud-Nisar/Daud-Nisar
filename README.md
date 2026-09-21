@@ -146,16 +146,6 @@ A Python project providing:
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Daud-Nisar/Daud-Nisar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
 ## 📈 What I'm Currently Working On
 
 ```text
